@@ -1,2 +1,4 @@
-# 패키지 설치
+# install package
+```
 pip install  flask  sqlalchemy  psycopg2  flask-cors  marshmallow  python-dotenv
+```
